@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{728C720A-3C8D-4B53-B2C6-A8B95E765313}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JogoTermoHeros</RootNamespace>
+    <AssemblyName>JogoTermoHeros</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DadosCompartilhados.cs" />
+    <Compile Include="GeraObjetos.cs" />
+    <Compile Include="JogoPrincipal\jogoPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JogoPrincipal\jogoPrincipal.Designer.cs">
+      <DependentUpon>jogoPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JogoPrincipal\telaAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JogoPrincipal\telaAdd.Designer.cs">
+      <DependentUpon>telaAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JogoPrincipal\EscolhaDePersonagens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JogoPrincipal\EscolhaDePersonagens.Designer.cs">
+      <DependentUpon>EscolhaDePersonagens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\OpcoesDeGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\OpcoesDeGame.Designer.cs">
+      <DependentUpon>OpcoesDeGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MiniGames\TelaBrMagic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniGames\TelaBrMagic.Designer.cs">
+      <DependentUpon>TelaBrMagic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniGames\TelaJogoIdade2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniGames\TelaJogoIdade2.Designer.cs">
+      <DependentUpon>TelaJogoIdade2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniGames\TelaJogoIdadeUm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniGames\TelaJogoIdadeUm.Designer.cs">
+      <DependentUpon>TelaJogoIdadeUm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniGames\TelaMa%28th%29gicViotti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniGames\TelaMa%28th%29gicViotti.Designer.cs">
+      <DependentUpon>TelaMa%28th%29gicViotti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\TelaSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\TelaSobre.Designer.cs">
+      <DependentUpon>TelaSobre.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="JogoPrincipal\jogoPrincipal.resx">
+      <DependentUpon>jogoPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JogoPrincipal\telaAdd.resx">
+      <DependentUpon>telaAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JogoPrincipal\EscolhaDePersonagens.resx">
+      <DependentUpon>EscolhaDePersonagens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\OpcoesDeGame.resx">
+      <DependentUpon>OpcoesDeGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="MiniGames\TelaBrMagic.resx">
+      <DependentUpon>TelaBrMagic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniGames\TelaJogoIdade2.resx">
+      <DependentUpon>TelaJogoIdade2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniGames\TelaJogoIdadeUm.resx">
+      <DependentUpon>TelaJogoIdadeUm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniGames\TelaMa%28th%29gicViotti.resx">
+      <DependentUpon>TelaMa%28th%29gicViotti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\TelaSobre.resx">
+      <DependentUpon>TelaSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoPrincipal.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoGame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1605742781374.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoPrincipal1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOOO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoWuo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1605221428879.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1605222109138.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoWuo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-12 at 18.44.47.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-12 at 18.44.47 %285%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-12 at 18.44.47 %284%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-12 at 18.44.47 %283%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-12 at 18.44.47 %282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-12 at 18.44.47 %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tutorial2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tutorial1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Troféu-PNG-de-Ouro-1200x1462.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pixilart-drawing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16052214288791.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e3e300b29fa0e3abec37e0030facbc59.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viottiFrente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TelaSobre.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temaJogoPrincipal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PLAY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXIT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wuoLado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-11-22 at 15.32.21.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

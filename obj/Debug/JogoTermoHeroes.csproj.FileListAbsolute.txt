@@ -1,0 +1,53 @@
+C:\Users\andre_000\source\repos\JogoTermoHeros\bin\Debug\JogoTermoHeros.exe.config
+C:\Users\andre_000\source\repos\JogoTermoHeros\bin\Debug\JogoTermoHeros.exe
+C:\Users\andre_000\source\repos\JogoTermoHeros\bin\Debug\JogoTermoHeros.pdb
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeroes.csprojAssemblyReference.cache
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.Form1.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.EscolhaDePersonagens.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.OpcoesDeGame.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.Properties.Resources.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.TelaBrMagic.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.TelaJogoIdade2.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.TelaJogoIdadeUm.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.TelaMa_th_gicViotti.resources
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeroes.csproj.GenerateResource.cache
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeroes.csproj.CoreCompileInputs.cache
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.exe
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.pdb
+C:\Users\andre_000\source\repos\JogoTermoHeros\obj\Debug\JogoTermoHeros.JogoPrincipal.JogoPrincipal.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\bin\Debug\JogoTermoHeros.exe.config
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\bin\Debug\JogoTermoHeros.exe
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\bin\Debug\JogoTermoHeros.pdb
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeroes.csprojAssemblyReference.cache
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.JogoPrincipal.jogoPrincipal.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.Form1.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.EscolhaDePersonagens.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.OpcoesDeGame.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.Properties.Resources.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaBrMagic.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaJogoIdade2.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaJogoIdadeUm.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaMa_th_gicViotti.resources
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeroes.csproj.GenerateResource.cache
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeroes.csproj.CoreCompileInputs.cache
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.exe
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.pdb
+C:\Users\andre_000\Documents\JogoTmHeroes\JogoTMHeroes\JogoTMHeroes\obj\Debug\JogoTermoHeros.telaAdd.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\bin\Debug\JogoTermoHeros.exe.config
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\bin\Debug\JogoTermoHeros.exe
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\bin\Debug\JogoTermoHeros.pdb
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeroes.csprojAssemblyReference.cache
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.JogoPrincipal.jogoPrincipal.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.telaAdd.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.Form1.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.EscolhaDePersonagens.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.OpcoesDeGame.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.Properties.Resources.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaBrMagic.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaJogoIdade2.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaJogoIdadeUm.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.TelaMa_th_gicViotti.resources
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeroes.csproj.GenerateResource.cache
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeroes.csproj.CoreCompileInputs.cache
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.exe
+C:\Users\alexandrehpc\Desktop\Jogo TM Heroea\JogoTMHeroes\obj\Debug\JogoTermoHeros.pdb
